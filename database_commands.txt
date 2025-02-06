@@ -1,0 +1,10 @@
+CREATE DATABASE vehicle_db;
+
+USE vehicle_db;
+
+CREATE TABLE vehicle_data (
+    Make VARCHAR(50),
+    Model VARCHAR(100),
+    Color VARCHAR(50),
+    License_Plate VARCHAR(20) PRIMARY KEY
+);
