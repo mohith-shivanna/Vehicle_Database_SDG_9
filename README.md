@@ -8,7 +8,6 @@ The **Vehicle Verification System** is a web application that allows users to ve
 - License plate state code validation.
 - Database query to check vehicle authenticity.
 - Color-coded alerts for verification results.
-- Responsive design for desktop and mobile use.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS (in `templates/index.html`)
